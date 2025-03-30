@@ -1,0 +1,7 @@
+
+path: ./  # relative to the location of this file
+train: images/train
+val: images/val
+
+names:
+  0: prymal_pouch

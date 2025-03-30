@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/workspace/mlruns/837908116871719273/03867d72bed846abb473ec00b842c33c/artifacts
+end_time: 1743296233849
+entry_point_name: ''
+experiment_id: '837908116871719273'
+lifecycle_stage: active
+run_id: 03867d72bed846abb473ec00b842c33c
+run_name: prymal_v1
+run_uuid: 03867d72bed846abb473ec00b842c33c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1743296232309
+status: 4
+tags: []
+user_id: runner
